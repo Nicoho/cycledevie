@@ -1,9 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Déploiement
-
-    Lien vers le site déployé sur Netlify : https://ecstatic-colden-6607ca.netlify.com
-
+Déploiement sur Netlify:https://festive-panini-6da75d.netlify.com
 
 ## Available Scripts
 
