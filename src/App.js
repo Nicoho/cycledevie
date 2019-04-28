@@ -5,7 +5,7 @@ class App extends Component{
     super (props);
     this.state={  
       title:"",
-      globalTitle:""
+      globalTitle:"titre de base"
     }
   }
 
@@ -29,6 +29,7 @@ class App extends Component{
   render(){
     return (
       <div className="App">
+      <h1> {this.state.globalTitle}</h1>      
         <form onSubmit={this.getSubmit}>
           <input type="text" 
                 name='text' 
